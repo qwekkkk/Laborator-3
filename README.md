@@ -1,1 +1,1 @@
-# Laborator-3 dykyi
+#  dykyi Laborator-3
